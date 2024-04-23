@@ -75,7 +75,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Digitalisation <a name="digitalisation"></a>
 
--
+- <a href="https://digicenter.rw/">Digital Transformation Center Rwanda</a>
 
 ### Gender and Equality <a name="gender"></a>
 
